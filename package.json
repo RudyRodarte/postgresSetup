@@ -1,0 +1,15 @@
+{
+  "name": "postgressetup",
+  "version": "1.0.0",
+  "description": "What I did to get postgres up and running on Linux Mint",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "postgres",
+    "postgresql"
+  ],
+  "author": "Rudy Rodarte",
+  "license": "MIT"
+}
